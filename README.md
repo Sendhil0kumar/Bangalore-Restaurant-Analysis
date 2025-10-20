@@ -51,4 +51,4 @@ This project requires the Zomato Bangalore dataset, which is not included in thi
 ### 2. Clone the Repository
 Clone this repository to your local machine.
 ```bash
-git clone (http://localhost:8888/tree)
+git clone [(http://localhost:8888/tree)](https://github.com/Sendhil0kumar/Bangalore-Restaurant-Analysis.git)
